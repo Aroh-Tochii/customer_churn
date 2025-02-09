@@ -1,0 +1,1 @@
+conducting a customer churn analysis  to understand why customers leave a service or stop purchasing a product and to identify key factors that contribute to this behavior. This analysis aims to equip businesses with actionable insights to improve customer retention, enhance their service offerings, and ultimately reduce revenue loss due to churn.
